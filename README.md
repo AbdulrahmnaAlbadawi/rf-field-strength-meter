@@ -9,7 +9,7 @@ A portable, low-cost, wideband **RF Field Strength Meter (FSM)** for detecting e
 A Field Strength Meter detects and quantifies the intensity of RF signals in the surrounding environment. It is widely used for antenna alignment, transmitter testing, interference detection, and general RF diagnostics.
 
 This meter rectifies captured RF energy into a proportional DC voltage, amplifies it through a two-stage transistor amplifier, and drives a progressive LED bar that indicates relative field strength: **Low → Medium → High → Full**. It runs from a 12 V DC supply and was verified against 146 MHz (VHF) and 443 MHz (UHF) sources.
-
+![circuit-schematic](docs/circuit_schematic.png)
 ## How It Works
 
 The circuit is organized into three functional blocks:
