@@ -84,7 +84,7 @@ This 16.9 cm length was used in the prototype for maximum sensitivity in the UHF
 - Trimming the antenna to the resonant length improved sensitivity.
 - The meter successfully detected both VHF (146 MHz) and UHF (443 MHz) signals, with consistent activation patterns and readings that increased as the source distance decreased.
 
-![pcb](docs/pcb.png)
+![pcb](docs/pcb.jpeg)
 
 ## Future Work
 
